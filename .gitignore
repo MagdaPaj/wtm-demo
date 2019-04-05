@@ -1,0 +1,4 @@
+lambdaCombine/vendor/*/
+lambdaModify/vendor/*/
+bin/
+*.zip
